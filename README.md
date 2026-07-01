@@ -101,4 +101,5 @@ MIT License
 
 可以的话赞赏一下喵
 
-<img width="1170" height="1061" alt="download" src="https://github.com/user-attachments/assets/955457e5-3b9a-423e-99ec-b25e7cb264ea" />
+##这么代码是展示收款码
+## <img width="1170" height="1061" alt="download" src="https://github.com/user-attachments/assets/955457e5-3b9a-423e-99ec-b25e7cb264ea" />
